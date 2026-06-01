@@ -1,6 +1,4 @@
 # Experimental-verification-of-frequency-response-of-Analog-fiber-optic-link
-# Experiment: Fiber Analog Link (660nm & 950nm) and Frequency Response of Phototransistor Detector
-
 ## Aim
 To study a 660nm & 950nm Fiber Analog Link and to analyze the frequency response of the phototransistor detector. The experiment investigates the relationship between the input signal and the received signal.
 
